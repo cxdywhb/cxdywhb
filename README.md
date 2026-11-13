@@ -25,7 +25,13 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxdywhb&layout=compact&hide_border=true&title_color=3E63DD&text_color=666666&bg_color=00000000" alt="Top Languages" />
 </div>
 
-<!-- snake: added once the output branch has the generated SVGs -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cxdywhb/cxdywhb/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cxdywhb/cxdywhb/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/cxdywhb/cxdywhb/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3E63DD&height=70&section=footer" width="100%"/>
