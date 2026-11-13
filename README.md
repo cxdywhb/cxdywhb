@@ -21,8 +21,8 @@
 ### Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cxdywhb&show_icons=true&hide_border=true&title_color=3E63DD&icon_color=3E63DD&text_color=666666&bg_color=00000000" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxdywhb&layout=compact&hide_border=true&title_color=3E63DD&text_color=666666&bg_color=00000000" alt="Top Languages" />
+  <img height="160" src="https://stats.cxdy.top/api?username=cxdywhb&show_icons=true&hide_border=true&title_color=3E63DD&icon_color=3E63DD&text_color=666666&bg_color=00000000&cache_seconds=21600" alt="GitHub Stats" />
+  <img height="160" src="https://stats.cxdy.top/api/top-langs/?username=cxdywhb&layout=compact&hide_border=true&title_color=3E63DD&text_color=666666&bg_color=00000000&cache_seconds=21600" alt="Top Languages" />
 </div>
 
 <div align="center">
