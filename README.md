@@ -8,7 +8,7 @@
 
 ### About
 
-- 📱 iOS developer (Swift / Objective-C), lately exploring how R&D teams are run
+- 📱 iOS developer (Swift / Objective-C), continuously exploring multi-agent collaboration
 - 🤖 Into AI coding agents — and putting them to work under real constraints
 - 🏠 Self-hosting a small fleet of my own services, notes at [cxdy.top](https://cxdy.top)
 
